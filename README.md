@@ -1,33 +1,30 @@
-## Hi there! 👋
+# Hi there! 👋
 
-I'm Hridayadev Dhungana, a passionate software developer with a strong interest in web and mobile app development. 
+I'm Hridayadev Dhungana, a passionate software developer with a strong interest in web and mobile app development.
 
-### 🔭 What I'm currently working on
+## 🔭 What I'm currently working on
 
-I'm currently working on small projects to learn more and become familiar with programming.
+I'm currently engaged in small projects to deepen my understanding and proficiency in programming.
 
-### 🌱 What I'm currently learning
+## 🌱 What I'm currently learning
 
-I'm constantly learning and exploring new technologies. Currently, I'm focusing on Express.js to enhance my backend knowledge.
+I'm always exploring new technologies to expand my skill set. Currently, I'm diving into Express.js to bolster my backend development expertise.
 
+## 📫 How to reach me
 
-### 📫 How to reach me
+Feel free to reach out to me via email at hridayadev.dhungana@gmail.com. I'm eager for engaging conversations and collaboration opportunities.
 
-You can reach out to me via hridayadev.dhungana@gmail.com. I'm always open to interesting conversations and collaboration opportunities.
+## 💻 Skills
 
+Here are some of the skills I've acquired:
 
-### 💻 Skills
+- HTML5 <img src="html.png" alt="HTML5" width="30" height="30">
+- CSS3 <img src="css.png" alt="CSS3" width="30" height="30">
+- Tailwind CSS <img src="tailwind.png" alt="Tailwind CSS" width="30" height="30">
+- JavaScript <img src="js.png" alt="JavaScript" width="30" height="30">
+- Node.js <img src="node.png" alt="Node.js" width="30" height="30">
+- Express.js <img src="express.png" alt="Express.js" width="30" height="30">
+- Git <img src="git.png" alt="Git" width="30" height="30">
 
-Here are some of the skills I have acquired:
-
-- HTML5 ![HTML5](html.png)
-- CSS3  ![CSS3](css.png)
--Telwind ![TelwindCSS](telwind.png)
-- JavaScript ![JavaScript](js.png)
-- Node.js ![Node.js](node.png)
-- Express.js ![Express.js](express.png)
-- Git ![Git](git.png)
-
-
-Looking forward to connecting with fellow developers and exploring exciting projects together!
+I'm excited to connect with fellow developers and embark on exciting projects together!
 
