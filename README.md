@@ -20,21 +20,14 @@ You can reach out to me via hridayadev.dhungana@gmail.com. I'm always open to in
 
 Here are some of the skills I have acquired:
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git
+- HTML5 ![HTML5](html.png)
+- CSS3  ![CSS3](css.png)
+-Telwind ![TelwindCSS](telwind.png)
+- JavaScript ![JavaScript](js.png)
+- Node.js ![Node.js](node.png)
+- Express.js ![Express.js](express.png)
+- Git ![Git](git.png)
 
-![HTML5](html.png)
-![CSS3](css.png)
-![JavaScript](js.png)
-![Node.js](node.png)
-![Express.js](express.png)
-![Git](git.png)
 
 Looking forward to connecting with fellow developers and exploring exciting projects together!
 
