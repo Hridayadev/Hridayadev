@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I’m Hridayadev 👋</h1>
+<h1 align="left">Hi there, I’m Hridayadev 👋</h1>
 
 <p align="left">
 🎓 <strong>BSc CSIT Student</strong> at Tribhuvan University<br>
