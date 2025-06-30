@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I’m Hridayadev 👋</h1>
 
-<p align="center">
-🎓 <strong>BSc CSIT Student</strong> at Tribhuvan University <br>
-💻 <strong>Full-Stack Developer</strong> — React | Next.js | Node.js | PostgreSQL <br>
-🎨 <strong>Designer</strong> — Logos, Branding, Canva Pro <br>
+<p align="left">
+🎓 <strong>BSc CSIT Student</strong> at Tribhuvan University<br>
+💻 <strong>Full-Stack Developer</strong> — React | Next.js | Node.js | PostgreSQL<br>
+🎨 <strong>Designer</strong> — Logos, Branding, Canva Pro<br>
 ✨ <strong>Explorer</strong> — Sci-Fi & Mystery Nerd | Big Dreamer | Lifelong Learner
 </p>
 
@@ -12,9 +12,9 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridayadev&theme=radical&hide_border=true" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hridayadev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayadev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridayadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hridayadev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayadev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
