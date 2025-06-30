@@ -1,30 +1,54 @@
-# Hi there! 👋
+<h1 align="center">Hi there, I’m Hridayadev 👋</h1>
 
-I'm Hridayadev Dhungana, a passionate software developer with a strong interest in web and mobile app development.
+<p align="center">
+🎓 <strong>BSc CSIT Student</strong> at Tribhuvan University <br>
+💻 <strong>Full-Stack Developer</strong> — React | Next.js | Node.js | PostgreSQL <br>
+🎨 <strong>Designer</strong> — Logos, Branding, Canva Pro <br>
+✨ <strong>Explorer</strong> — Sci-Fi & Mystery Nerd | Big Dreamer | Lifelong Learner
+</p>
 
-## 🔭 What I'm currently working on
+---
 
-I'm currently engaged in small projects to deepen my understanding and proficiency in programming.
+## 📊 My GitHub Stats
 
-## 🌱 What I'm currently learning
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridayadev&theme=radical&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hridayadev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayadev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-I'm always exploring new technologies to expand my skill set. Currently, I'm diving into Express.js to bolster my backend development expertise.
+---
 
-## 📫 How to reach me
+## 🚀 Tech Stack
 
-Feel free to reach out to me via email at hridayadev.dhungana@gmail.com. I'm eager for engaging conversations and collaboration opportunities.
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
+</p>
 
-## 💻 Skills
+---
 
-Here are some of the skills I've acquired:
+## 📫 Connect With Me
 
-- HTML5 <img src="html.png" alt="HTML5" width="30" height="30">
-- CSS3 <img src="css.png" alt="CSS3" width="30" height="30">
-- Tailwind CSS <img src="tailwind.png" alt="Tailwind CSS" width="30" height="30">
-- JavaScript <img src="js.png" alt="JavaScript" width="30" height="30">
-- Node.js <img src="node.png" alt="Node.js" width="30" height="30">
-- Express.js <img src="express.png" alt="Express.js" width="30" height="30">
-- Git <img src="git.png" alt="Git" width="30" height="30">
+<p align="center">
+  <a href="https://www.linkedin.com/in/hridayadev-dhungana-157225280/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Hridayadev">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.hridayadev.com.np/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-I'm excited to connect with fellow developers and embark on exciting projects together!
+---
 
+<p align="center">
+  ✨ <strong>Code | Learn | Repeat</strong> ✨
+</p>
